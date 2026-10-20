@@ -1,0 +1,11 @@
+{
+  "name": "cinebook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A real-time movie booking platform focused on concurrency and reliable seat reservations",
+  "packageManager": "pnpm@12.14.0",
+  "engines": {
+    "node": ">=24"
+  }
+
+}
